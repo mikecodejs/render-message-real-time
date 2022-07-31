@@ -1,0 +1,9 @@
+{
+  "name": "@workspace/ms-listener",
+  "version": "1.0.0",
+  "main": "./src/app.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsnd ./src/app.ts"
+  }
+}
