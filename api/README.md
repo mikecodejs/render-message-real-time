@@ -41,4 +41,8 @@ yarn ms:listener
 yarn ms:sender
 ```
 
+<img src="./docs/assets/unknown1.png" alt="Logo" height="auto" style="max-width: 100%" />
+
 Abra a aplicação web e execute o arquivo ```index.html```
+
+<img src="./docs/assets/unknown2.png" alt="Logo" height="auto" style="max-width: 100%" />
